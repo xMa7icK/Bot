@@ -8,7 +8,7 @@ handler.tags = ['images']
 handler.command = /^(lesbian)$/i
 handler.owner = false
 handler.mods = false
-handler.premium = true
+handler.premium = false
 handler.group = false
 handler.private = false
 
