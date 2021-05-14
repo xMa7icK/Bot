@@ -5,7 +5,7 @@ let handler  = async (m, { conn }) => {
 handler.help = ['belle']
 handler.tags = ['images']
 handler.command = /^(belle)$/i
-handler.owner = false
+handler.owner = true
 handler.mods = false
 handler.premium = false
 handler.group = false
