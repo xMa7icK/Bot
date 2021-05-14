@@ -23,7 +23,7 @@ function pickRandom(list) {
 
 
 global.virtex = [
-'todavía se actualiza, si hay virtex solo envíalo a wa.me/+529984907794'
+'todavía se actualiza, si hay virtex solo envíalo a wa.me/+56997760035'
 ]
 
 
