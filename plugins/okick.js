@@ -7,7 +7,7 @@ handler.help = ['kick','-'].map(v => 'o' + v + ' @user')
 handler.tags = ['owner']
 handler.command = /^(okick|o\-)$/i
 handler.owner = true
-handler.mods = false
+handler.mods = true
 handler.premium = false
 handler.group = true
 handler.private = false
